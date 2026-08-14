@@ -7,6 +7,13 @@ import io
 import tempfile
 import os
 
+
+st.set_page_config(
+    page_title="PDF Master Toolkit",
+    page_icon="logo.png",
+    layout="wide"
+)
+
 # =========================
 # PROFESSIONAL UI
 # =========================
